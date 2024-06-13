@@ -1,6 +1,6 @@
 # Brightspace Submission Fetcher
 
-This Python script automates the process of downloading, unzipping, and organizing student submissions for marking based on your student allocation.
+This Python script automates the process of downloading, unzipping, and organizing student submissions for marking based on your student allocation. It will save all student submissions unzipped for your student allocation.
 
 _____
 
