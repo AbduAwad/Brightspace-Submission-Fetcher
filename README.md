@@ -15,7 +15,7 @@ _____
 
 1. Ensure Python 3.x is installed on your system.
 2. Download the script to your local machine.
-3. Modify the script constants to match your environment:
+3. Modify the script constants.py:
    - `STUDENT_ALLOCATION_START`: Starting row index for student allocation in the CSV.
    - `STUDENT_ALLOCATION_END`: Ending row index for student allocation in the CSV.
    - `SUBMISSIONS_ZIP_PATH`: Path to the downloaded submissions ZIP file of all students submissions for an assignment. (link on how to obtain this zip file is here: https://carleton.ca/brightspace/instructors/grading-assignments-and-providing-feedback-2/#sect4.3)
